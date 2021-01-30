@@ -1,3 +1,5 @@
-# masters comment
+# Creating new function in the new branch
 
-# second comment in master
+
+def add_numbers(a, b):
+    return a + b
