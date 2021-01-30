@@ -10,4 +10,9 @@ def main():
     print(answer)
 
     
-# I added comment form my github 
+# I added comment form my github
+
+def new_function(a, b):
+    return a - b
+
+
